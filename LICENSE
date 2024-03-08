@@ -1,24 +1,69 @@
-This is free and unencumbered software released into the public domain.
+/**
+██╗  ██╗ █████╗ ██╗     ██████╗ ██████╗  █████╗ ██╗███████╗███████╗██████╗ 
+██║  ██║██╔══██╗██║     ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██╔════╝██╔══██╗
+███████║███████║██║     ██████╔╝██████╔╝███████║██║███████╗█████╗  ██████╔╝
+██╔══██║██╔══██║██║     ██╔══██╗██╔══██╗██╔══██║██║╚════██║██╔══╝  ██╔══██╗
+██║  ██║██║  ██║███████╗██║  ██║██║  ██║██║  ██║██║███████║███████╗██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+                                                                                 
+ * **********************************************
+ *   Code by halrraiser
+ * **********************************************
+ */
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+# code License Agreement
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+**Effective Date:** 19/10/2023-2024
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+**Between:**
+[HAL RRAISER]
 
-For more information, please refer to <https://unlicense.org>
+**And:**
+End-User ("Licensee")
+
+## License Grant
+
+Licensor grants Licensee a non-exclusive, non-transferable license to use the bot code under the terms and conditions set forth in this Agreement.
+
+## Scope of License
+
+- Licensee is permitted to use the code for educational and not for promoting your own feeds.
+- Licensee may not modify, decompile, reverse engineer, or disassemble the code.
+- Licensee may not sublicense, rent, lease, or transfer the code to any third party.
+- Licensee may not use the code in any manner that violates applicable laws or regulations.
+
+## Ownership
+
+Licensor retains all right, title, and interest in and to the code, including all intellectual property rights.
+
+## Termination
+
+This Agreement may be terminated by either party upon breach of the terms outlined herein. Upon termination, Licensee must cease using the code and destroy all copies of the code.
+
+## Disclaimer
+
+The code is provided "as is" without any warranty, express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. Licensor is not liable for any damages or losses arising from the use of the code.
+
+## Limitation of Liability
+
+Licensor's liability for any damages arising out of this Agreement shall be limited to the amount paid by Licensee for the code.
+
+
+---
+
+**By using the code, Licensee agrees to the terms of this License Agreement.**
+
+/**
+██╗  ██╗ █████╗ ██╗     ██████╗ ██████╗  █████╗ ██╗███████╗███████╗██████╗ 
+██║  ██║██╔══██╗██║     ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██╔════╝██╔══██╗
+███████║███████║██║     ██████╔╝██████╔╝███████║██║███████╗█████╗  ██████╔╝
+██╔══██║██╔══██║██║     ██╔══██╗██╔══██╗██╔══██║██║╚════██║██╔══╝  ██╔══██╗
+██║  ██║██║  ██║███████╗██║  ██║██║  ██║██║  ██║██║███████║███████╗██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+                                                                                 
+
+ * **********************************************
+ *   Code by halrraiser
+ * **********************************************
+ */
+
